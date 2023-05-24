@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "paradigmaoop", "paradigmaoo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "asosiasi", "asosiasi\asosiasi.vcxproj", "{801F4C79-967A-46F6-B1BF-46A20CD174C4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainIA", "mainIA\mainIA.vcxproj", "{E4250C6B-2CDA-4799-9491-AF3D54DB0A0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{801F4C79-967A-46F6-B1BF-46A20CD174C4}.Release|x64.Build.0 = Release|x64
 		{801F4C79-967A-46F6-B1BF-46A20CD174C4}.Release|x86.ActiveCfg = Release|Win32
 		{801F4C79-967A-46F6-B1BF-46A20CD174C4}.Release|x86.Build.0 = Release|Win32
+		{E4250C6B-2CDA-4799-9491-AF3D54DB0A0B}.Debug|x64.ActiveCfg = Debug|x64
+		{E4250C6B-2CDA-4799-9491-AF3D54DB0A0B}.Debug|x64.Build.0 = Debug|x64
+		{E4250C6B-2CDA-4799-9491-AF3D54DB0A0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E4250C6B-2CDA-4799-9491-AF3D54DB0A0B}.Debug|x86.Build.0 = Debug|Win32
+		{E4250C6B-2CDA-4799-9491-AF3D54DB0A0B}.Release|x64.ActiveCfg = Release|x64
+		{E4250C6B-2CDA-4799-9491-AF3D54DB0A0B}.Release|x64.Build.0 = Release|x64
+		{E4250C6B-2CDA-4799-9491-AF3D54DB0A0B}.Release|x86.ActiveCfg = Release|Win32
+		{E4250C6B-2CDA-4799-9491-AF3D54DB0A0B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
